@@ -3,6 +3,6 @@
 Practica de NodeJS
 
 ```
-npm install colors
-npm install yargs
+npm install 
+// Permite reconstruir partiendo del archivo .json
 ```
